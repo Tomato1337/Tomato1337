@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Tomato</h1>
 <h3 align="center">I'm developing Frontend interfaces. I also know a little about design.</h3>
-### :woman_technologist: About Me :
+<h3>:woman_technologist: About Me :</h3>
 
 - 🔭 I’m currently working [React-Pizza](https://github.com/Tomato1337/react-pizza)
 
