@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ilya.tyunin.2457@gmail.com**
 
-- ⚡ Fun fact **I like pizza :)**
+- ⚡ Fun fact **I like a pizza's :)**
 
 <p align="left">
 </p>
