@@ -1,5 +1,5 @@
-<div style="display: 'flex'">
-  <img src="https://i.pinimg.com/originals/99/d5/b4/99d5b4cc0b8d2b89e9a3c333be8ab81e.png" align="center">
+<div align="center">
+  <img width="150px" src="https://i.pinimg.com/originals/99/d5/b4/99d5b4cc0b8d2b89e9a3c333be8ab81e.png">
 </div>
 <h1 align="center">Hi 👋, I'm Tomato</h1>
 <h3 align="center">I'm developing Frontend interfaces. I also know a little about design.</h3>
