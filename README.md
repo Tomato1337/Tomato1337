@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [tomato1337.xyz](tomato1337.xyz)
 
-- 💬 Ask me about **React, JS**
-
 - 📫 How to reach me **ilya.tyunin.2457@gmail.com**
 
 - ⚡ Fun fact **I like pizza :)**
