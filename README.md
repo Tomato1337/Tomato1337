@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, JS, TypeScript, Next.js, Redux Toolkit**
 
-- 👨‍💻 All of my projects are available at [tomato1337.xyz](tomato1337.xyz)
+- 👨‍💻 All of my projects are available at [tomato1337.xyz](https://tomato1337.xyz)
 
 - 📫 How to reach me **ilya.tyunin.2457@gmail.com**
 
