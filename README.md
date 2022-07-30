@@ -28,4 +28,14 @@
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=Tomato1337&hide_border=false&include_all_commits=false&count_private=false)
 <!--START_SECTION:waka-->
+
+```text
+TypeScript       7 hrs 5 mins    ██████████████████▒░░░░░░   73.17 %
+JavaScript       2 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
+SCSS             20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+CSS              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+```
+
 <!--END_SECTION:waka-->
