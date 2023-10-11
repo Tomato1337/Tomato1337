@@ -15,3 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_LANGUAGE_PER_REPO: "True"
+          TIME_RANGE: all_time
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
