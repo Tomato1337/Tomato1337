@@ -30,7 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Total Time: 311 hrs 32 mins
+
+JavaScript       130 hrs 32 mins ██████████▒░░░░░░░░░░░░░░   41.82 %
+Python           124 hrs 12 mins ██████████░░░░░░░░░░░░░░░   39.80 %
+TypeScript       27 hrs 13 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+SCSS             7 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Text             6 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
