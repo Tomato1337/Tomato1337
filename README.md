@@ -5,11 +5,7 @@
 <h3 align="center">I'm developing Frontend interfaces. I also know a little about design.</h3>
 <h3>:woman_technologist: About Me :</h3>
 
-- 🔭 I’m currently working [star-wars](https://github.com/Tomato1337/star-wars)
-
 - 🌱 I’m currently learning **React, JS, TypeScript, Next.js, Redux Toolkit**
-
-- 👨‍💻 All of my projects are available at [tomato1337.xyz](https://tomato1337.xyz)
 
 - 📫 How to reach me **ilya.tyunin.2457@gmail.com**
 
