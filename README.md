@@ -46,13 +46,13 @@ I build complex frontend applications with a focus on architecture, async data f
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,399 hrs 32 mins
+Total Time: 1,403 hrs 2 mins
 
-TypeScript                 694 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.51 %
-JavaScript                 239 hrs 36 mins       ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-Python                     154 hrs 39 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-JSON                       39 hrs 57 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-SCSS                       35 hrs 8 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+TypeScript                 695 hrs 13 mins       ████████████░░░░░░░░░░░░░   48.30 %
+JavaScript                 240 hrs 16 mins       ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+Python                     155 hrs 22 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+JSON                       39 hrs 59 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Other                      36 hrs 19 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
